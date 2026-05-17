@@ -1,0 +1,3 @@
+vedo
+trimesh
+numpy
